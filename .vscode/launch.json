@@ -24,8 +24,14 @@
 		},
 		{
 			"label": "U_GetData"
+		},
+		{
+			"label": "U_embra01"
+		},
+		{
+			"label": "SIGAFAT"
 		}
 	],
-	"lastProgramExecuted": "SIGACOM",
+	"lastProgramExecuted": "SIGAFAT",
 	"lastProgramArguments": []
 }
