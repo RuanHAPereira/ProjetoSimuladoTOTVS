@@ -9,7 +9,7 @@
 User Function ValCmp()
 
     local lRet := .T.
-    local cCodigo := "SA2->A2_ZZCODPG"  // Substitua "ALIAS->Z05" pelo alias correto do campo
+    local cCodigo := "SA2->A2_ZZCODPG" 
 
     If !ExistCPO(cCodigo)
         MsgInfo("Cliente existe!", "Atenção")

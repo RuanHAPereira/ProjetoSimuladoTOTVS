@@ -26,7 +26,7 @@ return
 
 Static Function MenuDef()
 
-    local aButton := {} //cria um array vazio para que sejam adcionadas botoes funcionais
+    local aButton := {} //? cria um array vazio para que sejam adcionadas botoes funcionais
 
     ADD OPTION aButton TITLE "Visualizar"   ACTION 'VIEWDEF.CADZ05' OPERATION 2 ACCESS 0
     ADD OPTION aButton TITLE "Incluir"      ACTION 'VIEWDEF.CADZ05' OPERATION 3 ACCESS 0

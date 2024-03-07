@@ -3,8 +3,8 @@
 /*/{Protheus.doc} User Function MA103OPC
     Ponto de Entrada utilizado para adicionar itens no menu "Mais Opções"
     @type  Function
-    @author TOTVS IP/TM
-    @since 15/05/2023
+    @author Ruan Henrique
+    @since 06/03/2024
 /*/
 User Function MA103OPC()
     local aRet := {}

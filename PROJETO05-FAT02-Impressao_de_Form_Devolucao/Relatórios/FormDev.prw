@@ -7,8 +7,8 @@
 /*/{Protheus.doc} User Function nomeFunction
     Fonte para impressao de Formulario de Devolucao caso solicitado 
     @type  Function 
-    @author TOTVS IP/TM
-    @since 09/05/2023
+    @author Ruan Henrique
+    @since 06/03/2024
     /*/
 User Function FormDev()
     Processa({|| Print()}, 'Aguarde...', 'O formulario está sendo gerado', .F.)//! regua de processamento
